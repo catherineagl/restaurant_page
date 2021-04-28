@@ -1,2 +1,2 @@
 # restaurant_page
-project from The Odin Project
+restaurant page made with HTML, CSS & JavaScript using Webpack from The Odin Project Curriculum
